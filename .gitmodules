@@ -1,0 +1,6 @@
+[submodule "alternating-vrp"]
+	path = alternating-vrp
+	url = git@github.com:bzhangcw/alternating-vrp.git
+[submodule "alternating-ttp"]
+	path = alternating-ttp
+	url = git@github.com:bzhangcw/alternating-ttp.git
